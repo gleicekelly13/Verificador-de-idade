@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: 1.5rem;
     color: rgb(202, 243, 255);
     text-align: center;
@@ -30,7 +30,7 @@ section {
 
 div {
    font-weight: 500;
-   margin: 5px;
+   margin: 3px;
    
 }
 
@@ -39,12 +39,14 @@ input {
     padding: 3px;
 }
 
-#foto {
-    
+@media screen and (max-width: 480px) {
+    section {
+        width: 330px;
+    }
 }
 
-footer {
-    color: rgb(202, 243, 255);
-    text-align: center;
-    font-style: italic;
+@media screen and (max-width: 374px) {
+    section {
+        width: 300px;
+    }
 }
