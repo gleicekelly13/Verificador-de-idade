@@ -15,3 +15,8 @@
 <img src="https://user-images.githubusercontent.com/80974593/195217241-2175760d-3449-4b22-8024-f07b53b39870.png"  width="300">
 </div>
 <br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
