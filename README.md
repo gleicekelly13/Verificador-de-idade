@@ -1,4 +1,7 @@
 <h1 align="center">Verificador de idade</h1>
+<h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Programa que calcula o ano atual do sistema do relógio e carrega as fotos dinamicamente</p>
+<br>
 
 ## :desktop_computer: Desktop design
 <br>
