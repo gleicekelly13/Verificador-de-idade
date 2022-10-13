@@ -1,6 +1,6 @@
 <h1 align="center">Verificador de idade</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-<p>Programa que calcula o ano atual do sistema do relógio e carrega as fotos dinamicamente</p>
+<p>Programa que calcula o ano atual do sistema do relógio e carrega as fotos dinamicamente.</p>
 <br>
 
 ## :desktop_computer: Desktop design
@@ -24,6 +24,14 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>O programa calcula a idade baseada no ano atual do sistema, e após o botão "verificar" ser clicado, o programa mostra o sexo e a idade e carrega a imagem dinamicamente.
 </p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<p>Melhorei meu entendimento com relação a estruturar uma página.</p>
+<p>Continuei praticando edição de imagens.</p>
+<p>Aprendi conceitos de como modificar o Dom utilizando <strong>setAttribute</strong>.</p>
+<p>Entendi a utilização do método <strong>appendchild</strong> para adicionar um elemento.</p>
+<p>Continuei praticando meu aprendizado em construir uma página responsiva.</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
