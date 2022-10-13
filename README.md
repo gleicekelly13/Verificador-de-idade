@@ -20,3 +20,8 @@
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
+
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>O programa calcula a idade baseada no ano atual do sistema, e após o botão "verificar" ser clicado, o programa mostra o sexo e a idade e carrega a imagem dinamicamente.
+</p>
+<br>
