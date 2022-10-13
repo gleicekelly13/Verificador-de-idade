@@ -44,3 +44,8 @@
 <p>CSS3</p>
 <p>JavaScript</p>
 <br>
+
+# :sunglasses: Desenvolvedores do projeto
+
+- Curso em Vídeo
+- [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
