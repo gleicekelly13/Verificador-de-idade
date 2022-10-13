@@ -25,3 +25,7 @@
 <p>O programa calcula a idade baseada no ano atual do sistema, e após o botão "verificar" ser clicado, o programa mostra o sexo e a idade e carrega a imagem dinamicamente.
 </p>
 <br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/Verificador-de-idade/ </p>
+<br>
