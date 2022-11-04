@@ -43,7 +43,7 @@ function verificar() {
             }
         }
 
-        res.style.textAlign = 'center'
+        res.style.textAlign = 'center'   // Linha que vai centralizar o texto
         res.innerHTML = `Detectamos ${gênero} com ${idade} anos<br>`
         res.appendChild(img)  // Adiciona um elemento que é o img
         
